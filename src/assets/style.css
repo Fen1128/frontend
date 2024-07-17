@@ -1,0 +1,31 @@
+.intro {
+    height: 100vh;
+    background-image: url('../assets/images/bg/main.webp');
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.trending {
+    background-image: url('../assets/images/bg/bg.png');
+}
+
+.superhero {
+    background-image: url('../assets/images/bg/scifi.webp');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.tombol {
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+}
+
+img {
+    height: 600px;
+    object-fit: cover;
+}
